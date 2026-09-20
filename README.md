@@ -1,4 +1,4 @@
-# 📊 IBM Data Analyst Professional Certificate — Master Portfolio
+# IBM Data Analyst Professional Certificate — Master Portfolio
 
 Welcome! This repository contains a curated collection of end-to-end data analytics projects completed as part of the **IBM Data Analyst Professional Certificate**. 
 
@@ -6,7 +6,7 @@ The projects demonstrate full-stack analytical capabilities, moving from raw dat
 
 ---
 
-## 🛠️ Tech Stack & Skills Highlighted
+## Tech Stack & Skills Highlighted
 
 - **Data Querying & Relational Databases:** SQL (PostgreSQL, SQLite, IBM Db2), CTEs, Window Functions, Aggregate Joins
 - **Data Manipulation & Wrangling:** Python 3.x, Pandas, NumPy, Dynamic Web Scraping (`BeautifulSoup`), REST APIs
@@ -15,7 +15,7 @@ The projects demonstrate full-stack analytical capabilities, moving from raw dat
 
 ---
 
-## 🚀 Portfolio Projects Summary
+## Portfolio Projects Summary
 
 | Project | Key Technologies | Description & Core Focus | Folder Link |
 | :--- | :--- | :--- | :--- |
@@ -26,7 +26,7 @@ The projects demonstrate full-stack analytical capabilities, moving from raw dat
 
 ---
 
-## 📊 Key Highlights & Impact
+## Key Highlights & Impact
 
 - **End-to-End Data Pipeline:** Demonstrated ability to scrape web data, load it into database schemas, clean it using Python, and export business insights.
 - **Business-Focused Outputs:** Designed visualizations tailored to non-technical stakeholders, emphasizing actionability over raw code output.
